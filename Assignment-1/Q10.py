@@ -6,3 +6,5 @@ decimal_part = int((number - integer_part) * 100)
 
 print("Integer part :", integer_part)
 print("Decimal part :", decimal_part)
+
+# Completed Assignment-1/Q10.py
